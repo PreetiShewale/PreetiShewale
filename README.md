@@ -7,11 +7,15 @@
 
 - 🔭 I’m currently working on [React](https://github.com/PreetiShewale/PreetiShewale/commit/e9f537a612dc21d69d4d053cc9fa8b718776766a)
 
-- 🌱 I'm currently learning: [Data Structures and Algorithms](Data Structures and Algorithms)
+- 🧭 I love exploring and working both in frontend and backend
 
-- 🎭 I love **speaking to people and connecting with people.**
+- 🌱 I'm currently learning: Data Structures and Algorithms
 
-- 📝 Resume [https://drive.google.com/file/d/1uz-S_zLbJzN7HATK1iAAv6MZu5eqd9CA/view?usp=sharing](https://drive.google.com/file/d/1uz-S_zLbJzN7HATK1iAAv6MZu5eqd9CA/view?usp=sharing)
+- 🎭 I love speak to people and connecting with people.
+
+- 💬 Ask me about anything, I am happy to help
+
+- 📝 Resume (https://drive.google.com/file/d/1uz-S_zLbJzN7HATK1iAAv6MZu5eqd9CA/view?usp=sharing)
 
 - 📫 How to reach me: **Check social links below.**
 
